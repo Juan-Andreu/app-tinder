@@ -8,7 +8,7 @@ export const Logo = () => {
 
     return ( 
         <div className="containerLogo">
-          <FontAwesomeIcon className='icon'icon={faFireAlt} />    
+          <FontAwesomeIcon className='icon'icon={faFireAlt} />   
         </div>
     );
 }   
