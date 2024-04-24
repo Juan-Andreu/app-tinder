@@ -1,9 +1,15 @@
-body{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+header{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
     align-items: center;
+    padding: 2rem 4.5rem;
 }
+
+.body{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     background-color: black;
+} 
